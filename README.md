@@ -114,6 +114,8 @@ Step 19: Login to Kali Linux
 ## PROGRAM
 
 <img width="816" height="140" alt="sh method" src="https://github.com/user-attachments/assets/1e9a97c9-3bc2-45fe-a8be-3c82fa41f383" />
+
+
 ## EXPECTED OUTPUT
 
 <img width="292" height="176" alt="eo" src="https://github.com/user-attachments/assets/f524ca84-a33e-4da3-934e-931b2300495f" />
