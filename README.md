@@ -3,9 +3,13 @@
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
 ## EQUIPMENTS REQUIRED:
 ●	Hardware: PCs
+
 ●	Software: Oracle VM ware  , CENT OS 
+
 ●	A system with Oracle VM VirtualBox installed.   At least 4 GB RAM and 20 GB free disk space.
-●	   Kali Linux ISO image, which can be downloaded from the official website.
+
+●	 Kali Linux ISO image, which can be downloaded from the official website.
+
 ## Procedure:
 Step 1: Download VirtualBox
   Go to the VirtualBox official website: VirtualBox Downloads   Choose the appropriate version for your operating system:
@@ -31,6 +35,7 @@ Step 1: Download Kali Linux ISO
   Choose between 32-bit or 64-bit depending on your system (most systems are 64-bit).   Download the Installer version for a full installation.
 Step 2: Open Oracle VM VirtualBox
 1.	Launch VirtualBox on your computer.
+   
 <img width="1918" height="1133" alt="1" src="https://github.com/user-attachments/assets/7badc496-08c1-41dc-ab60-10e872db658e" />
 
 Step 3: Create a New Virtual Machine
@@ -66,11 +71,13 @@ Step 9: Configure Kali Linux ISO
 6.	Click OK.
 Step 10: Start the Virtual Machine
 1.	In VirtualBox, click Start to boot up your Kali Linux virtual machine.
+
 <img width="1920" height="1111" alt="Oracle VirtualBox Manager 07-09-2025 22_24_35" src="https://github.com/user-attachments/assets/04920cfe-a5db-4de1-95dd-b34267d09422" />
 
 
 Step 11: Begin Kali Linux Installation
 1.	The VM will now boot from the ISO. You’ll see a boot menu.   Select Graphical Install and press Enter.
+   
 <img width="1920" height="1111" alt="Kali Linux  Running  - Oracle VirtualBox 07-09-2025 22_24_57" src="https://github.com/user-attachments/assets/4148f341-e713-41b7-8453-c7857a7a1c5f" />
 
 Step 12: Select Language and Region
@@ -98,11 +105,14 @@ Step 18: Complete Installation
 Step 19: Login to Kali Linux
 1.	Once the machine reboots, you’ll be presented with a login screen.
 2.	Log in using the root account and the password you set earlier.
+   
 <img width="1920" height="1111" alt="Kali Linux  Running  - Oracle VirtualBox 07-09-2025 22_30_08" src="https://github.com/user-attachments/assets/0341e5e4-2d25-434c-bd38-1c4c91623af6" />
+
 ## EXPECTED OUTPUT
 .sh method
 
 ## PROGRAM
+
 <img width="816" height="140" alt="sh method" src="https://github.com/user-attachments/assets/1e9a97c9-3bc2-45fe-a8be-3c82fa41f383" />
 EXPECTED OUTPUT
 <img width="292" height="176" alt="eo" src="https://github.com/user-attachments/assets/f524ca84-a33e-4da3-934e-931b2300495f" />
@@ -110,8 +120,10 @@ EXPECTED OUTPUT
 ## TERMINAL METHOD
 
 <img width="432" height="376" alt="1" src="https://github.com/user-attachments/assets/b57e8912-3c62-47a8-b21f-1dd515d003e0" />
+
 ## CHMOD METHOD
 <img width="200" height="53" alt="2" src="https://github.com/user-attachments/assets/1f90de9f-a07c-4911-b1d5-387afc0cb607" />
+
 ## LINUX COMMANDS
 
 <img width="745" height="136" alt="lc" src="https://github.com/user-attachments/assets/1c3b2dbf-2785-4ba8-b495-58eb769f717b" />
